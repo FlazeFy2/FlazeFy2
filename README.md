@@ -20,5 +20,8 @@ Here are some ideas to get you started:
         <td>
             <img align='left' src = "https://github-readme-streak-stats.herokuapp.com/?user=FlazeFy2&theme=dark">
         </td>
+         <td>
+            <img align='left' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FlazeFy2&&layout=compact&langs_count=4">
+        </td>
     </tr>
 </table>
